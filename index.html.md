@@ -2,6 +2,9 @@ index.html
 <!DOCTYPE html>  
 <html lang="en">  
 <head>  
+  
+<meta name="google-site-verification" content="XXevQOivAs1955iP8n-QmmAz9tfb7jzRz0cqTGtZ1cs" />  
+  
 <meta charset="UTF-8">  
 <meta name="viewport" content="width=device-width, initial-scale=1.0">  
 <title>REPOSE - BYOB Club Rewari Bawal</title>  
